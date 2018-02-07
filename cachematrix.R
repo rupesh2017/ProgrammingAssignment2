@@ -1,6 +1,6 @@
-## <<- operator to change value of another environment
-## function has been defined inside another function to get caching feature (lexical scoping)
-## solve() function work only on singular function i.e whose determinant is zero
+## <<- operator to change value of another environment variable
+## function has been defined inside another function to get caching feature(to hold value until these function are executed)
+## solve() function work only on singular function i.e whose determinant is zero; to determine inverse of matrix
 
 
 ## makeCacheMatrix function is used to calculated and store the inverse of matrix
